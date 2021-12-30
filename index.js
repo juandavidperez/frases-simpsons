@@ -1,4 +1,7 @@
+'use strict';
 const express = require('express');
+const serverless = require('serverless-http');
+const bodyParser = require('body-parser');
 const app = express();
 const port = 8080;
 const quotes = require('./quotes.json');
@@ -13,6 +16,8 @@ const findCharacterQuotes = (name) => quotes.filter(frase => {
     const characterNameToLowerCase = frase.character.toLowerCase();
     return characterNameToLowerCase.includes(nameToLowerCase);
 });
+
+app.use(bodyParser);
 
 app.get('/', (req, res) => {
     console.log(req.query);
@@ -32,3 +37,5 @@ app.get('/quote', (req, res) => {
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
 })
+
+module.exports.handler = serverless(app);
