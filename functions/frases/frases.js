@@ -4,7 +4,7 @@ const serverless = require('serverless-http');
 const bodyParser = require('body-parser');
 const app = express();
 const port = 8080;
-const quotes = require('quotes');
+const quotes = require('quotes-simpsons-jdp');
 
 // funciones para filtrar los datos
 const findQuote = (valor) => {
