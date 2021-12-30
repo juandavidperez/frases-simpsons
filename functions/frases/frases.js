@@ -4,7 +4,11 @@ const serverless = require('serverless-http');
 const bodyParser = require('body-parser');
 const app = express();
 const port = 8080;
-const quotes = require('quotes-simpsons-jdp');
+
+const quotes = async () => {
+  const frases = await fetch('https://elastic-beaver-cbfed9.netlify.app/quotes.json');
+  return frases;
+}
 
 // funciones para filtrar los datos
 const findQuote = (valor) => {
