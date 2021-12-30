@@ -1,15 +1,35 @@
 'use strict';
 const express = require('express');
 const serverless = require('serverless-http');
+const https = require('https');
 const bodyParser = require('body-parser');
 const app = express();
 const port = 8080;
 
+// options get request
+const options = {
+  hostname: 'https://elastic-beaver-cbfed9.netlify.app/quotes.json',
+  port: 8080,
+  path: '/',
+  method: 'GET'
+}
+
 let quotes;
 
 const getQuotes = async () => {
-  const frases = await fetch('https://elastic-beaver-cbfed9.netlify.app/quotes.json');
-  return frases;
+  const req = https.request(options, res => {
+    console.log(`statusCode: ${res.statusCode}`);
+  
+    res.on('data', data => {
+      quotes = data;
+    })
+  })
+  
+  req.on('error', error => {
+    console.error(error);
+  })
+  
+  req.end();
 }
 
 // funciones para filtrar los datos
