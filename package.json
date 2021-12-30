@@ -20,7 +20,9 @@
     "url": "https://github.com/juandavidperez/frases-simpsons/issues"
   },
   "homepage": "https://github.com/juandavidperez/frases-simpsons#readme",
-  "dependencies": {},
+  "dependencies": {
+    "quotes": "./functions/frases/quotes.json"
+  },
   "devDependencies": {
     "body-parser": "^1.19.1",
     "express": "^4.17.2",
