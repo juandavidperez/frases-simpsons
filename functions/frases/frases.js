@@ -5,7 +5,9 @@ const bodyParser = require('body-parser');
 const app = express();
 const port = 8080;
 
-const quotes = async () => {
+let quotes;
+
+const getQuotes = async () => {
   const frases = await fetch('https://elastic-beaver-cbfed9.netlify.app/quotes.json');
   return frases;
 }
@@ -39,6 +41,7 @@ app.get('/quote', (req, res) => {
 })
 
 app.listen(port, () => {
+  quotes = getQuotes();
   console.log(`Example app listening at http://localhost:${port}`)
 })
 
