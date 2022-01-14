@@ -1,11 +1,12 @@
+'use strict';
 const express = require('express');
 const app = express();
-const port = 8080;
+const port = process.env.PORT || 5000;
 const quotes = require('./quotes.json');
 
 // funciones para filtrar los datos
 const findQuote = (valor) => {
-    return quotes.find(frase => frase.quote.toLowerCase().includes(valor.toLowerCase()));
+    return quotes.filter(frase => frase.quote.toLowerCase().includes(valor.toLowerCase()));
 }
 
 const findCharacterQuotes = (name) => quotes.filter(frase => {
