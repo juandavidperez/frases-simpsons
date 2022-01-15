@@ -22,10 +22,13 @@
   },
   "homepage": "https://github.com/juandavidperez/frases-simpsons#readme",
   "dependencies": {
-    "express": "^4.17.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.15"
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "https": "^1.0.0",
+    "nodemon": "^2.0.15",
+    "serverless-http": "^2.7.0"
   },
   "engines": {
     "node": "16.13.1"
