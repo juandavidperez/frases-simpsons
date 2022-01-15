@@ -1,5 +1,6 @@
 'use strict';
 const express = require('express');
+const cors = require('cors');
 const app = express();
 const port = process.env.PORT || 5000;
 const quotes = require('./quotes.json');
@@ -14,6 +15,8 @@ const findCharacterQuotes = (name) => quotes.filter(frase => {
     const characterNameToLowerCase = frase.character.toLowerCase();
     return characterNameToLowerCase.includes(nameToLowerCase);
 });
+
+app.use(cors());
 
 app.get('/', (req, res) => {
     console.log(req.query);
