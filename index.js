@@ -16,6 +16,8 @@ const findCharacterQuotes = (name) => quotes.filter(frase => {
     return characterNameToLowerCase.includes(nameToLowerCase);
 });
 
+const findId = (id) => quotes.filter(frase => frase.id === id);
+
 app.use(cors());
 
 app.get('/', (req, res) => {
@@ -30,6 +32,11 @@ app.get('/character', (req, res) => {
 
 app.get('/quote', (req, res) => {
     const quote = findQuote(req.query.quote || '');
+  res.json(quote);
+})
+
+app.get('/id', (req, res) => {
+  const quote = findId(req.query.id || '');
   res.json(quote);
 })
 

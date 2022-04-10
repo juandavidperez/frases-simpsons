@@ -3,312 +3,364 @@
         "character": "Homero Simpson",
         "quote": "Normalmente no rezo, pero si estás ahí, por favor, ¡sálvame Superman!",
         "video": "WFgiCYNMeZ0?start=30",
-        "imagen": "https://pbs.twimg.com/media/D78fhC5XsAE5C53.png"
+        "imagen": "https://pbs.twimg.com/media/D78fhC5XsAE5C53.png",
+        "id": "1"
     },
     {
         "character": "Homero Simpson",
         "quote": "Lisa, los vampiros son seres inventados, como los duendes, los gremlins y los esquimales.",
         "video": "z5TB2wqHqH0?start=12",
-        "imagen": "http://img.desmotivaciones.es/201104/homerandlisabond.jpg"
+        "imagen": "http://img.desmotivaciones.es/201104/homerandlisabond.jpg",
+        "id": "2"
     },
     {
         "character": "Homero Simpson",
         "quote": "Marge, Bart lleva una camisa hawaiana y solo dos tipos de hombres usan esas camisas, los gais y los juerguistas obesos, y Bart no tiene pinta de juerguista obeso. ",
         "video": "XQhFttMki_I?start=6",
-        "imagen": "http://img.desmotivaciones.es/201107/marge_2.jpg"
+        "imagen": "http://img.desmotivaciones.es/201107/marge_2.jpg",
+        "id": "3"
     },
     {
         "character": "Homero Simpson",
         "quote": "Tres pequeñas frases que te ayudarán a lo largo de tu vida: la primera ¡Cúbreme!, la segunda ¡Buena idea Jefe!, y la tercera; Estaba así cuando llegué.",
         "video": "xLIq6Z8svKc",
-        "imagen": "https://i.pinimg.com/originals/b0/b6/2f/b0b62f0a5edcaa4dff7629ed5e558878.jpg"
+        "imagen": "https://i.pinimg.com/originals/b0/b6/2f/b0b62f0a5edcaa4dff7629ed5e558878.jpg",
+        "id": "4"
     },
     {
         "character": "Homero Simpson",
         "quote": "Los viejos no necesitan amor, tienen que ser aislados y estudiados para ver qué nutrientes se les pueden sacar para nuestro beneficio personal.",
         "video": "_WJLzZASpb8",
-        "imagen": "https://i.ytimg.com/vi/_WJLzZASpb8/sddefault.jpg"
+        "imagen": "https://i.ytimg.com/vi/_WJLzZASpb8/sddefault.jpg",
+        "id": "5"
     },
     {
         "character": "Homero Simpson",
         "quote": "Yuju, ya soy universitario. ya no necesito el diploma de la escuela secundaria. Soy intelectual, muy inteligente. Soy intelectual, muy inteligente, hay que bonito soy.",
         "video": "7v_NUHXmFCw",
-        "imagen": "https://i.pinimg.com/originals/82/6d/3b/826d3b2400dc75bdea766541ffdfb22e.gif"
+        "imagen": "https://i.pinimg.com/originals/82/6d/3b/826d3b2400dc75bdea766541ffdfb22e.gif",
+        "id": "6"
     },
     {
         "character": "Homero Simpson",
         "quote": "Voy por la escopeta. Bart no quiero asustarte pero tal vez el Coco, el Coco esta en la casa.",
         "video": "6UHKLDsAAsY?start=12",
-        "imagen": "https://i.makeagif.com/media/6-16-2017/ELQnLb.gif"
+        "imagen": "https://i.makeagif.com/media/6-16-2017/ELQnLb.gif",
+        "id": "7"
     },
     {
         "character": "Homero Simpson",
         "quote": "¡Qué elegancia, la de Francia!",
         "video": "QiK273PjpV8?start=2",
-        "imagen": "https://i.pinimg.com/originals/d7/e9/49/d7e949b49b40db7b69366f15e71b852e.jpg"
+        "imagen": "https://i.pinimg.com/originals/d7/e9/49/d7e949b49b40db7b69366f15e71b852e.jpg",
+        "id": "8"
     },
     {
         "character": "Homero Simpson",
         "quote": "¿Y si era tan listo porque se murio?",
         "video": "de-Oi1kX7is?start=13",
-        "imagen": "https://i.ytimg.com/vi/gHNwL8Ho0ck/maxresdefault.jpg"
+        "imagen": "https://i.ytimg.com/vi/gHNwL8Ho0ck/maxresdefault.jpg",
+        "id": "9"
     },
     {
         "character": "Homero Simpson",
         "quote": "¿Y como olvidarme del niño rata?",
         "video": "de-Oi1kX7is?start=13",
-        "imagen": "http://img.desmotivaciones.es/201305/984227_471576592917859_1402709186_n.jpg"
+        "imagen": "http://img.desmotivaciones.es/201305/984227_471576592917859_1402709186_n.jpg",
+        "id": "10"
     },
     {
         "character": "Homero Simpson",
         "quote": " Disculpe profesor cerebron, yo llevo 10 años trabajando en una planta nuclear y yo creo que sé como funciona un acelerador de protones.",
         "video": "M5VnevzsdVU?start=5",
-        "imagen": "https://i.ytimg.com/vi/M5VnevzsdVU/maxresdefault.jpg"
+        "imagen": "https://i.ytimg.com/vi/M5VnevzsdVU/maxresdefault.jpg",
+        "id": "11"
     },
     {
         "character": "Homero Simpson",
         "quote": "La televisión me respeta se ríe conmigo no de mi",
         "video": "jmnarZYVCbs",
-        "imagen": "http://i.ytimg.com/vi/-roejW4j53Q/maxresdefault.jpg"
+        "imagen": "http://i.ytimg.com/vi/-roejW4j53Q/maxresdefault.jpg",
+        "id": "12"
     },
     {
         "character": "Homero Simpson",
         "quote": "No me dicen la bomba de Springfield solo por que soy un poquito gordo",
         "video": "rDS68rgzTBE?start=5",
-        "imagen": "https://i.gifer.com/9k34.gif"
+        "imagen": "https://i.gifer.com/9k34.gif",
+        "id": "13"
     },
     {
         "character": "Homero Simpson",
         "quote": "Nonononono no bueno si",
         "video": "M2k3eL77rqk",
-        "imagen": "https://c.tenor.com/c3_n1UXZJEQAAAAC/bueno-si.gif"
+        "imagen": "https://c.tenor.com/c3_n1UXZJEQAAAAC/bueno-si.gif",
+        "id": "14"
     },
     {
         "character": "Homero Simpson",
         "quote": "Esto se va a poner feo...",
         "video": "15giwultEQI?t=24",
-        "imagen": "https://c.tenor.com/8eRw3Sbs1SsAAAAC/homer-simpson-esto-se-va-a-poner-feo.gif"
+        "imagen": "https://c.tenor.com/8eRw3Sbs1SsAAAAC/homer-simpson-esto-se-va-a-poner-feo.gif",
+        "id": "15"
     },
     {
         "character": "Homero Fantasma",
         "quote": "Moeeeee, tú me matasteee",
         "video": "Q6FziXjdTro?start=1",
-        "imagen": "https://i.ytimg.com/vi/8YzOB__zI5k/hqdefault.jpg"
+        "imagen": "https://i.ytimg.com/vi/8YzOB__zI5k/hqdefault.jpg",
+        "id": "16"
     },
     {
         "character": "Bart Simpson",
         "quote": "Si yo me muriera, reencarnarí­a en mariposa, nadie sospecharí­a de una mariposa.",
         "video": "LWMaCV6V09Y?t=10",
-        "imagen": "https://pbs.twimg.com/media/D6QZ4tWWwAA9H7g.jpg"
+        "imagen": "https://pbs.twimg.com/media/D6QZ4tWWwAA9H7g.jpg",
+        "id": "17"
     },
     {
         "character": "Bart Simpson",
         "quote": "¿Qué te paso Viejo? Antes eras chévere",
         "video": "-FBBo8ZY0PU",
-        "imagen": "https://c.tenor.com/PbME4klaRBsAAAAC/los-simpsons-antes-eres-chevere.gif"
+        "imagen": "https://c.tenor.com/PbME4klaRBsAAAAC/los-simpsons-antes-eres-chevere.gif",
+        "id": "18"
     },
     {
         "character": "Bart Simpson",
         "quote": "Vive deprisa, muere joven y deja un cadáver obeso.",
         "video": "maM_KyZ55fY",
-        "imagen": "https://i.ytimg.com/vi/EVVr_PbONVY/hqdefault.jpg"
+        "imagen": "https://i.ytimg.com/vi/EVVr_PbONVY/hqdefault.jpg",
+        "id": "19"
     },
     {
         "character": "Bart Simpson",
         "quote": "Por eso le digo negrita linda ven pa'ca, con su pollera colora'",
         "video": "DU3Cbju65zg?start=52",
-        "imagen": "https://pbs.twimg.com/media/EEW2zFXXsAAB4td.jpg"
+        "imagen": "https://pbs.twimg.com/media/EEW2zFXXsAAB4td.jpg",
+        "id": "20"
     },
     {
         "character": "Bart Simpson",
         "quote": "¿Porque tan elegante Homero?",
         "video": "a_9mwkeD59w?start=4",
-        "imagen": "https://memegenerator.net/img/images/72725588.jpg"
+        "imagen": "https://memegenerator.net/img/images/72725588.jpg",
+        "id": "21"
     },
     {
         "character": "Marge Simpson",
         "quote": "¡Bart, deja de molestar a Satanás!",
         "video": "ZYcVLx-HOyM?start=5",
-        "imagen": "https://i.pinimg.com/564x/84/b8/44/84b8440a4ff77fa77810191a07e0e0e4.jpg"
+        "imagen": "https://i.pinimg.com/564x/84/b8/44/84b8440a4ff77fa77810191a07e0e0e4.jpg",
+        "id": "22"
     },
     {
         "character": "Marge Simpson",
         "quote": "A veces siento que la familia me vuelve loca ¡y quiero estallar! .",
         "video": "zFisHrdpTBE?start=19",
-        "imagen": "https://i.ytimg.com/vi/YtjOafrHJL8/maxresdefault.jpg"
+        "imagen": "https://i.ytimg.com/vi/YtjOafrHJL8/maxresdefault.jpg",
+        "id": "23"
     },
     {
         "character": "Lisa Simpson",
         "quote": "¿No deberíamos atacar las raíces de los problemas sociales en vez de atestar las prisiones del país?",
         "video": "96RGtPhmTzs",
-        "imagen": "https://i.chzbgr.com/full/9085270016/h7EF8B520"
+        "imagen": "https://i.chzbgr.com/full/9085270016/h7EF8B520",
+        "id": "24"
     },
     {
         "character": "Lisa Simpson",
         "quote": "Pueden aceptar la ciencia y enfrentar la realidad o pueden creer en ángeles y vivir en un mundo infantil de fantasías.",
         "video": "zYDQOhqq8lE?start=16",
-        "imagen": "http://img.desmotivaciones.es/201110/307133_281879158509183_223167921046974_952997_476870513_n.jpg"
+        "imagen": "http://img.desmotivaciones.es/201110/307133_281879158509183_223167921046974_952997_476870513_n.jpg",
+        "id": "25"
     },
     {
         "character": "Lisa Simpson",
         "quote": "La policía sólo sirve para mantener el status quo de las clases dominantes.",
         "video": "Z37KDuS70N8",
-        "imagen": "https://i.ytimg.com/vi/BTpeIZColjk/maxresdefault.jpg"
+        "imagen": "https://i.ytimg.com/vi/BTpeIZColjk/maxresdefault.jpg",
+        "id": "26"
     },
     {
         "character": "Abraham Simpson",
         "quote": "Ya comete la maldita naranja!!",
         "video": "01e8W1dJwHo?start=3",
-        "imagen": "https://memegenerator.net/img/images/300x300/13880726.jpg"
+        "imagen": "https://memegenerator.net/img/images/300x300/13880726.jpg",
+        "id": "27"
     },
     {
         "character": "Abraham Simpson",
         "quote": "¿Somos tan viejos?",
         "video": "6sEuAFeLwr4?start=6",
-        "imagen": "https://www.fotosdememes.com/wp-content/uploads/2021/10/somos-tan-viejo.jpg"
+        "imagen": "https://www.fotosdememes.com/wp-content/uploads/2021/10/somos-tan-viejo.jpg",
+        "id": "28"
     },
     {
         "character": "Sr Burns",
         "quote": " Familia, amistad y religión, tres demonios a destruir si quieres triunfar en los negocios.",
         "video": "pE0YX3NktYY?start=13",
-        "imagen": "https://pbs.twimg.com/media/D1fl7yUXgAISWpP.jpg"
+        "imagen": "https://pbs.twimg.com/media/D1fl7yUXgAISWpP.jpg",
+        "id": "29"
     },
     {
         "character": "Sr Burns",
         "quote": "¡Tonterías! Los perros son idiotas, piénsalo Smithers: si yo fuese a tu casa y empezara a oler en tu entrepierna y te lamiera la cara, ¿qué dirías?",
         "video": "WuUnFRQtxtc",
-        "imagen": "https://i.ytimg.com/vi/WuUnFRQtxtc/hqdefault.jpg"
+        "imagen": "https://i.ytimg.com/vi/WuUnFRQtxtc/hqdefault.jpg",
+        "id": "30"
     },
     {
         "character": "Sr Burns",
         "quote": "Smithers traiga a ese perro, voy a hacerlo vicepresidente ejecutivo",
         "video": "Ud51xCHCjmE?start=8",
-        "imagen": "https://i.pinimg.com/736x/0e/b8/32/0eb8325ac3499ebe03ca4658a0ebd8da.jpg"
+        "imagen": "https://i.pinimg.com/736x/0e/b8/32/0eb8325ac3499ebe03ca4658a0ebd8da.jpg",
+        "id": "31"
     },
     {
         "character": "Sr Burns",
         "quote": "¿De que me estaba riendo? oh si, del obrero inválido",
         "video": "ryZbGumzgvU?start=44",
-        "imagen": "https://tenor.com/WVbL.gif"
+        "imagen": "https://tenor.com/WVbL.gif",
+        "id": "32"
     },
     {
         "character": "Moe Szyslak",
         "quote": "¿Cuánto cobran los extras de cine? Porque dicen que me parezco a Macaulay Culkin.",
         "video": "o15bdFOgMwg?start=32",
-        "imagen": "https://y.yarn.co/d6a03a0a-39fc-4b4e-a3f5-883e32d9837d_screenshot.jpg"
+        "imagen": "https://y.yarn.co/d6a03a0a-39fc-4b4e-a3f5-883e32d9837d_screenshot.jpg",
+        "id": "33"
     },
     {
         "character": "Moe Szyslak",
         "quote": "El garage, el garage ... Ulala señor francés",
         "video": "JJVDhhpkF1U",
-        "imagen": "https://c.tenor.com/BJwfwU6xiYEAAAAC/uh-lala-oh-lala.gif"
+        "imagen": "https://c.tenor.com/BJwfwU6xiYEAAAAC/uh-lala-oh-lala.gif",
+        "id": "34"
     },
     {
         "character": "Moe Szyslak",
         "quote": "Qué trucazo ¿no?",
         "video": "wjSCDl48eu4?start=5",
-        "imagen": "https://i.ytimg.com/vi/_zd339HD8yg/hqdefault.jpg"
+        "imagen": "https://i.ytimg.com/vi/_zd339HD8yg/hqdefault.jpg",
+        "id": "35"
     },
     {
         "character": "Barney Gomez",
         "quote": "¿Deja salir a Homero a jugar?",
         "video": "fbHxOJDpk48?start=7",
-        "imagen": "https://i.ytimg.com/vi/Q9L-9M-wy0Q/hqdefault.jpg"
+        "imagen": "https://i.ytimg.com/vi/Q9L-9M-wy0Q/hqdefault.jpg",
+        "id": "36"
     },
     {
         "character": "Ned Flanders",
         "quote": "¡Flanders a Dios, Flanders a Dios! ¡Quita tu nube y salva a mi Tod!",
         "video": "M2GRkKjExGA?start=11",
-        "imagen": "https://i.ytimg.com/vi/Vn_d91qWIuY/hqdefault.jpg"
+        "imagen": "https://i.ytimg.com/vi/Vn_d91qWIuY/hqdefault.jpg",
+        "id": "37"
     },
     {
         "character": "Gordo Tony",
         "quote": "A ver a ver, ¿que pasó?",
         "video": "sfsmMqdOQ0A?start=35",
-        "imagen": "https://c.tenor.com/gQ-vBgkiMKsAAAAC/a-ver-a-ver-a-ver-que-paso.gif"
+        "imagen": "https://c.tenor.com/gQ-vBgkiMKsAAAAC/a-ver-a-ver-a-ver-que-paso.gif",
+        "id": "38"
     },
     {
         "character": "Guardia de la prision",
         "quote": "Usted no aprende, ¿verdad, Simpson?",
         "video": "_0wSERRn9W0?start=7",
-        "imagen": "https://cdn2.mediotiempo.com/uploads/media/2019/12/17/simpson-anos-memes-epicos-creados-1.jpg"
+        "imagen": "https://cdn2.mediotiempo.com/uploads/media/2019/12/17/simpson-anos-memes-epicos-creados-1.jpg",
+        "id": "39"
     },
     {
         "character": "Dr Picado",
         "quote": "Y que Dios se apiade de nosotros",
         "video": "7HLkMs2lqFQ",
-        "imagen": "https://c.tenor.com/mXCWt_BixJsAAAAC/the-simpsons-sog.gif"
+        "imagen": "https://c.tenor.com/mXCWt_BixJsAAAAC/the-simpsons-sog.gif",
+        "id": "40"
     },
     {
         "character": "Apicultor",
         "quote": "Simpson usted es diabólico",
         "video": "81JHw3vwYjo",
-        "imagen": "https://memegenerator.net/img/instances/82015698.jpg"
+        "imagen": "https://memegenerator.net/img/instances/82015698.jpg",
+        "id": "41"
     },
     {
         "character": "Un niño",
         "quote": "Ya ya, esta muerto!!",
         "video": "C6CTeMMtGqY?start=17",
-        "imagen": "https://i.ytimg.com/vi/pazdSGRo3SA/maxresdefault.jpg"
+        "imagen": "https://i.ytimg.com/vi/pazdSGRo3SA/maxresdefault.jpg",
+        "id": "42"
     },
     {
         "character": "Cosme Fulanito",
         "quote": "¿Homero? ¿Ay quién es Homero? Mi nombre es Cosme Fulanito",
         "video": "xnoummdS3DA?start=8",
-        "imagen": "https://memegenerator.net/img/instances/82449112.jpg"
+        "imagen": "https://memegenerator.net/img/instances/82449112.jpg",
+        "id": "43"
     },
     {
         "character": "Homero Simpson",
         "quote": "Para más placer",
         "video": "x8nB_WIOnsU",
-        "imagen": "https://c.tenor.com/SteBbYKD_s8AAAAd/homero-para-m%C3%A1s-placer.gif"
+        "imagen": "https://c.tenor.com/SteBbYKD_s8AAAAd/homero-para-m%C3%A1s-placer.gif",
+        "id": "44"
     },
     {
         "character": "Homero Simpson",
         "quote": "Momento que soy lento!",
         "video": "Wik9pQz-4wI?t=9",
-        "imagen": "https://i.ytimg.com/vi/Wik9pQz-4wI/maxresdefault.jpg"
+        "imagen": "https://i.ytimg.com/vi/Wik9pQz-4wI/maxresdefault.jpg",
+        "id": "45"
     },
     {
         "character": "Homero Simpson",
         "quote": "Ató-mi-co, Se dice Ató-mi-co.",
         "video": "WIr23sXx1AI?t=8",
-        "imagen": "https://c.tenor.com/P_A2chZOTPQAAAAC/homero-atomico.gif"
+        "imagen": "https://c.tenor.com/P_A2chZOTPQAAAAC/homero-atomico.gif",
+        "id": "46"
     },
     {
         "character": "Homero Simpson",
         "quote": "Se prohibe el alcohol en Springfield",
         "video": "rMSXXuhZjYY?t=18",
-        "imagen": "https://c.tenor.com/zF9PzrrBeUUAAAAd/dry-love-you.gif"
+        "imagen": "https://c.tenor.com/zF9PzrrBeUUAAAAd/dry-love-you.gif",
+        "id": "47"
     },
     {
         "character": "Lisa Simpson",
         "quote": "Mamá, Papá, Bart está muerto!",
         "video": "Uegs-qo2H3c",
-        "imagen": "https://memegenerator.net/img/instances/84869662.jpg"
+        "imagen": "https://memegenerator.net/img/instances/84869662.jpg",
+        "id": "48"
     },
     {
         "character": "Homero Simpson",
         "quote": "A la grande le puse cuca",
         "video": "tRHmH9rvLd0?t=16",
-        "imagen": "https://c.tenor.com/GD6khofWjIwAAAAd/homer-simpson.gif"
+        "imagen": "https://c.tenor.com/GD6khofWjIwAAAAd/homer-simpson.gif",
+        "id": "49"
     },
     {
         "character": "Homero Simpson",
         "quote": "Tararara Hey!, tararara",
         "video": "D--u6lCIlG0",
-        "imagen": "https://coub-anubis-a.akamaized.net/coub_storage/coub/simple/cw_timeline_pic/1889157b217/ebe0b4ed53926c3e23068/1488881693_image.jpg"
+        "imagen": "https://coub-anubis-a.akamaized.net/coub_storage/coub/simple/cw_timeline_pic/1889157b217/ebe0b4ed53926c3e23068/1488881693_image.jpg",
+        "id": "50"
     },
     {
         "character": "Carl Carlson",
         "quote": "Oye no le grites a Homero, sólo es un poco lento",
         "video": "FVbG3w_kEAc",
-        "imagen": "https://c.tenor.com/1oB-eTk6Zp4AAAAd/vaya-que.gif"
+        "imagen": "https://c.tenor.com/1oB-eTk6Zp4AAAAd/vaya-que.gif",
+        "id": "51"
     },
     {
         "character": "Bart Simpson",
         "quote": "Tenía que combinar, no?",
         "video": "D6g7eNmrO54?t=41",
-        "imagen": "https://i.pinimg.com/originals/b3/58/d9/b358d94912d86e11dfe66ed478496b2d.jpg"
+        "imagen": "https://i.pinimg.com/originals/b3/58/d9/b358d94912d86e11dfe66ed478496b2d.jpg",
+        "id": "52"
     }
 ]
