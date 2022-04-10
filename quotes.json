@@ -418,5 +418,33 @@
         "video": "1JrZu90IvlE",
         "imagen": "https://c.tenor.com/S-Y-22sgti0AAAAM/the-simpsons-principal-skinner.gif",
         "id": "60"
+    },
+    {
+        "character": "Homero Simpson",
+        "quote": "Apoyo la moción con toda violencia!",
+        "video": "ZS7URbSJuko",
+        "imagen": "https://c.tenor.com/Egud-bMVmK0AAAAd/apoyo-la-mocion-homero.gif",
+        "id": "61"
+    },
+    {
+        "character": "Homero Simpson",
+        "quote": "Eso es aburrido!, estás aburriendo a todos! Deja de aburrirlos!",
+        "video": "d3r96KstZLU",
+        "imagen": "https://c.tenor.com/AUal3Z0SWAcAAAAd/homer-simpson.gif",
+        "id": "62"
+    },
+    {
+        "character": "Homero Simpson",
+        "quote": "Antes, Antes! Vives en el pasado Marge!, no vivas en el pasado!",
+        "video": "PGm1Hh6ldzc",
+        "imagen": "https://c.tenor.com/6PE2YUo-YMAAAAAd/simpsons-living-in-the-past.gif",
+        "id": "63"
+    },
+    {
+        "character": "Homero Simpson",
+        "quote": "Marge no voy a mentirte",
+        "video": "vBfgZxdP2Tc",
+        "imagen": "https://c.tenor.com/H55pT_7HAxgAAAAd/the-simpsons-homer.gif",
+        "id": "64"
     }
 ]
